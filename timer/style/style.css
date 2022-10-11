@@ -32,11 +32,6 @@ button:active {
 	transform: scale(.95);
 }
 
-label {
-	font-size: 1.3em;
-	padding: 15px;
-}
-
 .container {
 	text-align: center;
 }
@@ -44,10 +39,10 @@ label {
 .timer {
 	font-size: 5.5em;
 	margin: 10% auto 2% auto;
-	padding: 5%;
+	padding: 3%;
 	text-align: center;
 	color: antiquewhite;
-	width: 600px;
+    width: 70%;
 	box-shadow: 5px 5px 15px black;
 	border: solid #72705D 2px;
 	border-radius: 10px;
